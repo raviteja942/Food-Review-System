@@ -1,6 +1,6 @@
 Title : Food Review System
-website link : https://dpfoodwebsite.ccbp.tech/
 
+# [`Website link`](https://dpfoodwebsite.ccbp.tech)  [`Demo video link `](https://drive.google.com/file/d/1e03yee2IUJ208Y2jJQz1iOn-aMTwUdGK/view?usp=drivesdk)
 
 
 Description:Food Reviewing System is designed to address the dual objectives of enhancing the dining experience for students while curbing food wastage. The system provides a platform for students to see the ratings of hostel meals, facilitating informed decision-making and responsible consumption. Through transparent feedback mechanisms, the system aims to foster a community-driven approach to improving meal quality and reducing waste. Key features include user-friendly interfaces, real-time feedback, and measures to ensure the authenticity and reliability of reviews. The system's potential to revolutionize hostel dining, emphasizing its role in promoting sustainability and enhancing student satisfaction.
@@ -39,6 +39,7 @@ Techstacks/Technologies Used:The three main languages used in this website are
  HTML is used for structuring content on a webpage
 CSS is used for styling and designing the layout.
 JavaScript is used for adding interactivity and functionality to the website. Each language plays a crucial role in creating a well-designed and dynamic webpage.
+<img src="https://graph.org/file/715188236e86212b4cd52.jpg">
 <img src="https://graph.org/file/15c754f5bed69e104cb00.jpg">
 <img src="https://graph.org/file/742472013fb607763e3d2.jpg">
 <img src="https://graph.org/file/f3ead55b7134ff2113f2f.jpg">
